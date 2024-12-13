@@ -1,3 +1,3 @@
 # CFCNet
 
-The complete and comprehensive codebase will be made available upon acceptance of the paper.
+code for Coordinate-based Feature Compensation Network for Screen Content Image Super-Resolution.
